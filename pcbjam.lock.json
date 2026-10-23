@@ -1,0 +1,151 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-23T15:26:11.600Z",
+  "projectId": "95afc9a5-20fe-4d78-84a1-d7eb2841b729",
+  "libs": [
+    {
+      "nickname": "Capacitor_THT",
+      "kinds": [
+        "footprint"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "dd8e9421-d651-4818-adef-b23dc59c7048",
+      "type": "origin",
+      "revision": "sha256:d76349af5068c8104dc7653845bdac9d40a8ed4ae80fba0a07ff3c96c5c44266",
+      "source": {
+        "provenance": "kicad-footprints",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-footprints",
+        "ref": "kicad-footprints@2c7f07017725b44b98f30849e1b83e29fed43718"
+      }
+    },
+    {
+      "nickname": "Connector",
+      "kinds": [
+        "symbol"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "302dbbf7-a2d3-41e9-9402-e0ff4f67d1c5",
+      "type": "origin",
+      "revision": "sha256:8160c2a80026e07af9bede64fbc023359e5344ef39271c4ee3c1479b403d2ea2",
+      "source": {
+        "provenance": "kicad-symbols",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-symbols",
+        "ref": "kicad-symbols@60d2dc9981920ee40eb5caa4dc01b23f713beca7"
+      }
+    },
+    {
+      "nickname": "Connector_Coaxial",
+      "kinds": [
+        "footprint"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "42b9835f-a5e2-4b35-b10d-564b9e5d43b4",
+      "type": "origin",
+      "revision": "sha256:658d6a0048fbef5981bd8b6f95acabde696c957bbd2bccddd10ae9740ede4865",
+      "source": {
+        "provenance": "kicad-footprints",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-footprints",
+        "ref": "kicad-footprints@2c7f07017725b44b98f30849e1b83e29fed43718"
+      }
+    },
+    {
+      "nickname": "Connector_Generic",
+      "kinds": [
+        "symbol"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "a9bf02ad-4896-4576-a1a2-1a0a13f7e274",
+      "type": "origin",
+      "revision": "sha256:7a96134515f651cc6ce72f91a7b97b2a59988af6646ecdee5217e14ccaa72379",
+      "source": {
+        "provenance": "kicad-symbols",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-symbols",
+        "ref": "kicad-symbols@60d2dc9981920ee40eb5caa4dc01b23f713beca7"
+      }
+    },
+    {
+      "nickname": "Connector_JST",
+      "kinds": [
+        "footprint"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "c1f8eb5c-0775-4471-80b9-438bfa3cc027",
+      "type": "origin",
+      "revision": "sha256:036f222edda66679003e8c638145cc7a2932e60b7410231bda2116a3d1274481",
+      "source": {
+        "provenance": "kicad-footprints",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-footprints",
+        "ref": "kicad-footprints@2c7f07017725b44b98f30849e1b83e29fed43718"
+      }
+    },
+    {
+      "nickname": "Device",
+      "kinds": [
+        "symbol"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "87eadc9d-a1bc-4b10-8ce4-5691803c4b63",
+      "type": "origin",
+      "revision": "sha256:437b3cf5b5fd15c82c4524c7b99d01ac8be4cc8a901f713fec99a8421a27523d",
+      "source": {
+        "provenance": "kicad-symbols",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-symbols",
+        "ref": "kicad-symbols@60d2dc9981920ee40eb5caa4dc01b23f713beca7"
+      }
+    },
+    {
+      "nickname": "RF_Module",
+      "kinds": [
+        "symbol"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "a541211a-8ebb-4e67-807e-3156dfd9e7d2",
+      "type": "origin",
+      "revision": "sha256:242ec639658f9f64ad01b629b76f35b13fae1de6f0d02f4b8a62555d17d5aca4",
+      "source": {
+        "provenance": "kicad-symbols",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-symbols",
+        "ref": "kicad-symbols@60d2dc9981920ee40eb5caa4dc01b23f713beca7"
+      }
+    },
+    {
+      "nickname": "Resistor_THT",
+      "kinds": [
+        "footprint"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "9bc8aafe-67b7-4fc5-af2b-74a2cf68343b",
+      "type": "origin",
+      "revision": "sha256:707a2983c8ffae57b8fa5367cc45540d09af670c669507018f0b9c9231c1a3dd",
+      "source": {
+        "provenance": "kicad-footprints",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-footprints",
+        "ref": "kicad-footprints@2c7f07017725b44b98f30849e1b83e29fed43718"
+      }
+    },
+    {
+      "nickname": "power",
+      "kinds": [
+        "symbol"
+      ],
+      "bundled": false,
+      "license": "cc-by-sa-4.0",
+      "libId": "bd8fbb81-23de-4458-b583-487fbb32db67",
+      "type": "origin",
+      "revision": "sha256:68ad8f43093b9bf7da232b233b5012758dfadb95bb5e1b4b806572c1823f06ee",
+      "source": {
+        "provenance": "kicad-symbols",
+        "repoUrl": "https://gitlab.com/kicad/libraries/kicad-symbols",
+        "ref": "kicad-symbols@60d2dc9981920ee40eb5caa4dc01b23f713beca7"
+      }
+    }
+  ]
+}
